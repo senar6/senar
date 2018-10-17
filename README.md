@@ -1,4 +1,4 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+﻿**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
 
@@ -6,7 +6,7 @@ When you're done, you can delete the content in this README and update the file 
 
 ---
 
-## Edit a file
+## Edit a file and branch
 
 You’ll start by editing this README file to learn how to edit a file in Bitbucket.
 
